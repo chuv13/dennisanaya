@@ -1072,6 +1072,19 @@ textarea.form-control {
     transition: all 0.3s ease 0s;
 }
 
+.btn.btn-primary.regular-button {
+    background: #333333 none repeat scroll 0 0;
+    border: 0 none;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    -webkit-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+}
+
 .contact-form button:hover {
     background: #f5f5f5 none repeat scroll 0 0;
     color: #333333;
@@ -1218,7 +1231,7 @@ a.scrolltotop:hover {
 }
 
 .blog-page .top-area-bg {
-    background: rgba(0, 0, 0, 0) url("img/blog/blog_page_barnar.jpg") no-repeat fixed center center / cover;
+    background: rgba(0, 0, 0, 0) url("/img/blog/blog_page_barnar.jpg") no-repeat fixed center center / cover;
 }
 
 .welcom-barner-area {
