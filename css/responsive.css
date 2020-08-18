@@ -327,7 +327,7 @@
     .welcome-text-area {
         padding-top: 0;
     }
-    .welcome-text h1 {
+    .welcome-text #my-name {
         font-size: 30px;
     }
     .welcome-img-layer img {
@@ -498,7 +498,7 @@
     .welcome-text {
         letter-spacing: 4px;
     }
-    .welcome-text h1 {
+    .welcome-text #my-name {
         font-size: 44px;
     }
 }

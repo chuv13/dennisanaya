@@ -453,11 +453,25 @@ ul#nav li.active a {
     text-transform: capitalize;
 }
 
-.welcome-text h1 {
+.welcome-text #my-name {
     font-size: 72px;
     text-transform: uppercase;
     -webkit-transition: 0.3s;
     transition: 0.3s;
+    margin: 0 0 15px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+    line-height: 1em;
+    color: #333;
+}
+
+.welcome-text #my-job {
+    font-size: 24px;
+    text-transform: uppercase;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+    font-family: 'Montserrat', sans-serif;
 }
 
 
