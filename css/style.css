@@ -250,7 +250,10 @@ input:-webkit-autofill:focus {
 }
 
 .top-area-bg::before {
-    background: #f5f5f5 url("../img/pattarn.png") repeat scroll 0 0;
+    background: #f5f5f5 url("../img/splash-bg.jpg") 0 0;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
     content: "";
     height: 100%;
     left: 0;
