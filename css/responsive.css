@@ -70,7 +70,7 @@
         margin-right: 5px;
     }
     .welcome-img-layer {
-        max-width: 35%;
+        max-width: 100%;
     }
     .service-area .col-md-4 {
         padding: 0;
@@ -165,7 +165,7 @@
         max-width: 70%;
     }
     .welcome-img-layer img {
-        max-width: 95%;
+        max-width: 100%;
     }
     .single-welcome-slide h1 {
         font-size: 40px;
@@ -234,6 +234,7 @@
     /*----------------*/
     .main-section .welcome-img-layer {
         position: absolute;
+        width: 100%;
     }
     .blog-page .single-blog {
         margin-bottom: 0;
